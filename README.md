@@ -1,6 +1,6 @@
 Challenge Project: Build Your Own Cheat Sheet
 
-Project Goals
+Project Goals:
 In this project, I build my own reference cheat sheet by applying my knowledge that I
 learned in HTML and CSS.
 
